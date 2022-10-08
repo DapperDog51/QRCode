@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 400px; 
+    height: 540px;
+    border-radius: 25px;
+    padding: 5px 5px 10px 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.qr_code {
+    max-width: 90%;
+    max-height: 90%;
+    margin: 15px auto auto auto;
+    display: block;
+    border-radius: 25px;
+}
+.title {
+    padding-top: 10px;
+}
+
+.attribution {
+    padding-top: 10px;
+}
+
+p {
+    color: rgb(82, 82, 82);
+}
